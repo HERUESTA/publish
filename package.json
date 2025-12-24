@@ -1,0 +1,27 @@
+{
+  "name": "publish",
+  "version": "1.0.0",
+  "description": "zennとqiitaを執筆するためのリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HERUESTA/publish.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HERUESTA/publish/issues"
+  },
+  "homepage": "https://github.com/HERUESTA/publish#readme",
+  "dependencies": {
+    "zenn-cli": "^0.2.11"
+  },
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.7.0"
+  }
+}
